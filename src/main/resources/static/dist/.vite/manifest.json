@@ -1,0 +1,33 @@
+{
+  "src/main-legacy.ts": {
+    "file": "assets/main-legacy-D9_m5UZU.js",
+    "name": "main",
+    "src": "src/main-legacy.ts",
+    "isEntry": true,
+    "assets": [
+      "assets/typescript-EnIy2PE5.svg"
+    ]
+  },
+  "src/main.ts": {
+    "file": "assets/main-ogq1khKT.js",
+    "name": "main",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "css": [
+      "assets/main-ehOjCVXv.css"
+    ],
+    "assets": [
+      "assets/typescript-EnIy2PE5.svg"
+    ]
+  },
+  "src/typescript.svg": {
+    "file": "assets/typescript-EnIy2PE5.svg",
+    "src": "src/typescript.svg"
+  },
+  "vite/legacy-polyfills-legacy": {
+    "file": "assets/polyfills-legacy-BfTMrQ-F.js",
+    "name": "polyfills",
+    "src": "vite/legacy-polyfills-legacy",
+    "isEntry": true
+  }
+}
